@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Listando Arquivos :: </title>
+	<title>Listando Arquivos:: </title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	
@@ -28,9 +28,6 @@
 
 			<div class="card-body">
 				
-
-
-
 				<?php
 
 				$path = "img/";
@@ -45,6 +42,11 @@
 				?>
 
 				<a class="btn btn-success"  href="javascript:history.go(-1)"> Retornar para Page / Upload </a>
+
+
+			<div class="card-footer">
+				<p class="small">licença GNU.</p>
+			</div>
 
 
 			</div>
